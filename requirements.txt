@@ -24,7 +24,6 @@ pipreqs==0.4.13
 plotly==5.18.0
 pygame==2.5.2
 PyMonCtl==0.7
-pypiwin32==223
 python-dateutil==2.8.2
 pytz==2023.3.post1
 PyWinBox==0.6
