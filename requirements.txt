@@ -27,7 +27,6 @@ PyMonCtl==0.7
 pypiwin32==223
 python-dateutil==2.8.2
 pytz==2023.3.post1
-pywin32==306
 PyWinBox==0.6
 PyWinCtl==0.3
 requests==2.31.0
